@@ -38,7 +38,7 @@ To think about implementing great UX like this, let’s consider the dimension o
 Answering this question gives way to the ideas of short- and long-term memory.
 
 <p align="center">
-  <img src="short-vs-long.jpeg" width="50%" />
+  <img src="short-vs-long.jpg" width="50%" />
 </p>
 
 ## **Short-Term Memory ( a.k.a. “Thread-Scoped”)**
@@ -91,7 +91,7 @@ Profiles
 > 
 
 <p align="center">
-  <img src="semantic_profile.jpeg" width="50%" />
+  <img src="semantic_profile.jpg" width="50%" />
 </p>
 
 Collection
@@ -100,7 +100,7 @@ Collection
 > 
 
 <p align="center">
-  <img src="semantic_collection.jpeg" width="50%" />
+  <img src="semantic_collection.jpg" width="50%" />
 </p>
 
 As you can imagine, maintaining the collection can be, well, quite difficult.
@@ -132,7 +132,7 @@ Writing memory during runtime provides real-time updates and immediate reflectio
 Background processing, on the other hand, avoids runtime latency impacts but results in delayed memory updates and potential inconsistencies. This method works well for summarization and episodic storage.
 
 <p align="center">
-  <img src="hot_path_vs_background.jpeg" width="50%" />
+  <img src="hot_path_vs_background.jpg" width="50%" />
 </p>
 
 ## Memory Isn't New—It's Context Engineering
